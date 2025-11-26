@@ -1,5 +1,5 @@
 def greet(name: str) -> str:
-    return f"Hello, {name}! Welcome to my GitHub project."
+    return f"Hello, {name}! Welcome to my GitHub super project."
 
 def main():
     user = input("Enter your name: ")
